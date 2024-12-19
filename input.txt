@@ -1,4 +1,0 @@
-+insert text front
-++++++++++insert text back+
-++++++++
-+++++++++++++
